@@ -21,4 +21,4 @@ The only difficulty that I did encounter was a division error with the pledge co
   Based on my analysis of Theater Outcomes based launch date, I can conclude that campigns starting in May and June are the most succesful. I can also conclude that campigns launched in are the least succesful.
   Based on my analysis of Outcomes based on goals, campigns with a goal of $45,000 and up are most likely to fail. 
   A limitation of this dataset is the lack of data on marketing efforts. Information on marketing efforts could provide a better explaination on why some campaigns with the same goals and launch dates did not do as well as others. 
-  A reccomendation of another chart and graph we could create, is a bar chart of  Outcomes based length of campaign.
+  A reccomendation of another chart and graph we could create, is a bar chart of  Outcomes based length of campaigns.
